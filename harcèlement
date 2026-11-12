@@ -2,10 +2,12 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Jean Cassaigne</title>
+    <title>Harcèlement</title>
+    <link rel="stylesheet" href="css.css">
 </head>
 <body>
     <h3>Comment reconnait-on le harcèlement ?</h3>
+    <br>
     <p>Un élève est victime de harcèlement quand il subit, de façon répétitive, 
         des actes négatifs de la part d'un ou plusieurs autres élèves.</p>
     <br>
