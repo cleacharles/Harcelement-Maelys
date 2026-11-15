@@ -1,0 +1,19 @@
+body {
+    background-color: lightpink;
+}
+
+h3 {
+    color : salmon;
+}
+
+u {
+    text-decoration: none;
+}
+
+/* Changer le style de tous les liens */
+a {
+    color: #ff0000;       /* Couleur du texte */
+    text-decoration: none;  /* Supprime le soulignement */
+    font-weight: bold;      /* Texte en gras */
+    cursor: pointer;
+}
