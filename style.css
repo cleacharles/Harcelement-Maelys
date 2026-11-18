@@ -22,10 +22,11 @@ a {
     cursor: pointer;
 }
 
-p, a, u, h1, h3, h4 {
+p, a, u, h3, h4 {
     font-size: 30px;
 }
 
-titre {
+h1 {
     font-size: 33px;
+    text-align: center;
 }
