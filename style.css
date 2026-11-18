@@ -32,3 +32,14 @@ h1 {
     color: salmon
 }
 
+.mon-bouton {
+    display: block;
+    width: fit-content;
+    margin: 20px auto;
+    padding: 15px 25px;
+    color: salmon;
+    text-decoration: none;
+    border-radius: 10px;
+    font-size: 30px;
+    text-align: center;
+}
