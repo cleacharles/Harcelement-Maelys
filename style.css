@@ -59,7 +59,7 @@ h1 {
 .conteneur-boutons {
     display: flex;
     justify-content: center;
-    gap: 20px;
+    gap: 5px;
     align-items: center;
     flex-wrap: wrap;
 }
