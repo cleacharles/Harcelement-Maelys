@@ -1,3 +1,3 @@
 function myFunction() {
-  alert("nff")
+  alert("Cela a bien été envoyé !")
 }
